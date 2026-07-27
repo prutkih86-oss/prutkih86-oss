@@ -19,7 +19,7 @@
   * Оптимізовано SQL-запити для підготовки аналітичних вибірок та проведено EDA за допомогою Python.
   * Створено 2 інтерактивні Tableau дашборди для відстеження ефективності бізнесу та метрик залученості.
   * Формалізовано інсайти щодо трендів продажів, поведінки користувачів та динаміки доходів.
-* 🔗 **Посилання:** [Colab](посилання-на-colab) | [Tableau](посилання-на-tableau)
+* 🔗 **Посилання:** [Tableau](https://public.tableau.com/views/E-commerceSalesAnalytics_17850731402860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -30,7 +30,7 @@
   * Застосовано Two-Proportion Z-test для перевірки статистичних гіпотез та оцінки конверсій.
   * Розраховано lift %, p-value, довірчі інтервали та виявлено статистично значущі зміни.
   * Проведено детальний сегментний аналіз (країни, пристрої, канали) та підготовлено бізнес-рекомендації.
-* 🔗 **Посилання:** [Colab](посилання-на-colab) | [Tableau](посилання-на-tableau)
+* 🔗 **Посилання:** [Tableau](https://public.tableau.com/views/ABTestingAnalysis_17850804481790/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
