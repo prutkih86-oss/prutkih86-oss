@@ -2,11 +2,13 @@
 
 Я — Junior Data Analyst, який захоплюється перетворенням сирих даних на зрозумілі інсайти для бізнесу та оптимізацію процесів. Розглядаю можливості remote або hybrid формату роботи.
 
-## 🛠 Мій стек технологій
+## 🛠️ Мій стек технологій
 
-* **Мови та бази даних:** Python (Pandas, NumPy), SQL (PostgreSQL, BigQuery)
-* **Візуалізація даних:** Tableau, Looker Studio, Power BI
-* **Фокус:** Продуктова та веб-аналітика, A/B тестування, когортний аналіз, SEO-аналітика
+- **Data & Analytics:** Python (Pandas, NumPy), SQL (PostgreSQL, BigQuery), Tableau, Looker Studio, Power BI
+- **Frontend:** React, TypeScript, Vite, HTML, CSS
+- **Backend & Apps:** Python, NiceGUI, REST API, SQLite
+- **Tools & Infrastructure:** Git, GitHub, Docker
+- **Фокус:** продуктова та веб-аналітика, A/B тестування, когортний аналіз, dashboard development, AI-продукти
 
 ---
 
