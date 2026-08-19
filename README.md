@@ -34,14 +34,17 @@
 
 ---
 
-### 🤖 Beauty AI Platform *(Team Project)*
-* **Опис:** Розробка AI-платформи у крос-функціональній команді (PM, Backend, Frontend, Python Dev, UI/UX, Data Analyst).
-* **Стек:** `Data Modeling`, `Product Analytics`, `Figma`, `OpenStreetMap API`
-* **Ключові результати:**
-  * Спроектовано структуру аналітичної бази даних та сценарії користувачів (user flows).
-  * Розроблено UI/UX концепти та прототипи аналітичних дашбордів.
-  * Взято участь у плануванні фіч, опрацюванні вимог та інтеграції OpenStreetMap й AI-рекомендацій.
-* 🔗 **Посилання:** [GitHub](посилання-на-github) | [Figma](посилання-на-figma)
+### 🦋 Beauty AI Platform *(Team Project)*
+
+- **Опис:** Крос-функціональний командний проєкт — платформа для пошуку та бронювання beauty-послуг із персоналізованими AI-рекомендаціями.
+- **Моя роль:** Frontend та Admin Panel development, робота з UI/UX, інтеграцією даних та аналітичною частиною.
+- **Стек:** React, TypeScript, Vite, Python, NiceGUI, REST API, SQLite, React Leaflet, OpenStreetMap/CARTO, Git/GitHub.
+- **Ключові результати:**
+  - Розроблено responsive frontend для desktop та mobile із пошуком, категоріями, рекомендаціями та інтерактивною картою.
+  - Реалізовано Admin Panel із Dashboard, Analytics та інтерфейсами керування bookings, clients, masters, services і payments.
+  - Побудовано модульну структуру frontend та admin-застосунків для подальшої інтеграції з backend/API.
+  - Реалізовано аналітичні dashboard-компоненти для моніторингу ключових бізнес-метрик.
+- 🔗 **Посилання:** [Frontend](https://github.com/prutkih86-oss/beauty-ai-frontend) | [Admin Panel](https://github.com/prutkih86-oss/beauty-ai-admin)
 
 ---
 
