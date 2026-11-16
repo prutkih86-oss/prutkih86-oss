@@ -1,96 +1,118 @@
 
-# Привіт, я Ihor Prudkyi! 👋
+# Hi, I'm Ihor Prudkyi! 👋
 
-Я — Data Analyst із досвідом математичного моделювання, статистичного аналізу та розробки аналітичних рішень.
+I'm a Data Analyst with a strong background in mathematical modeling, statistical analysis, and analytical software development.
 
-Спеціалізуюся на роботі з даними, бізнес-аналітиці, A/B тестуванні та створенні інтерактивних дашбордів. Маю досвід реалізації end-to-end аналітичних проєктів і координації командної розробки.
+My expertise includes data analysis, business intelligence, A/B testing, and interactive dashboard development. I have experience delivering end-to-end analytics projects and coordinating cross-functional development teams.
 
-Відкритий до можливостей у форматі remote або hybrid.
+Open to remote and hybrid opportunities.
 
-## 🛠️ Мій стек технологій
+## 🛠️ Tech Stack
 
 - **Data & Analytics:** SQL (PostgreSQL, BigQuery), Python (Pandas, NumPy, SciPy), Power BI, Tableau, Looker Studio
 - **BI & Statistics:** DAX, Power Query, Data Modeling, A/B Testing, Hypothesis Testing, Cohort Analysis
 - **Web Analytics:** Google Analytics 4 (GA4), Event Tracking, Funnel Analysis, User Behavior Analytics
 - **Frontend:** React, TypeScript, Vite, HTML, CSS
-- **Backend & Apps:** Python, NiceGUI, REST API, SQLite
+- **Backend & Applications:** Python, NiceGUI, REST API, SQLite
 - **Tools & Infrastructure:** Git, GitHub, Docker, Jupyter Notebook
-- **Фокус:** Product Analytics, Business Intelligence, Customer Retention, Data Visualization, AI-продукти
+- **Focus Areas:** Product Analytics, Business Intelligence, Customer Retention, Data Visualization, AI Products
 
 ---
 
-## 🚀 Портфоліо / Проєкти
+## 🚀 Portfolio Projects
 
 ### 📊 Beauty AI — Power BI Analytics
 
-**Опис:** Аналітичне рішення для Beauty AI, що об'єднує фінансові показники платформи, поведінку клієнтів та дані Google Analytics 4.
+**Overview:** An analytical solution for the Beauty AI platform, combining financial performance, customer behavior, and Google Analytics 4 data.
 
-**Стек:** `Power BI`, `SQL`, `Google BigQuery`, `GA4`, `DAX`, `Power Query`
+**Tech Stack:** `Power BI`, `SQL`, `Google BigQuery`, `GA4`, `DAX`, `Power Query`
 
-**Ключові результати:**
-- Розроблено три інтерактивні Power BI дашборди: Revenue Overview, User Behavior та Google Analytics.
-- Реалізовано аналіз загальної вартості бронювань (4,07 млн ₴), виручки платформи (499,2 тис. ₴) та ефективності бронювань.
-- Проведено когортний аналіз утримання клієнтів, повторних бронювань та каналів залучення.
-- Проаналізовано ефективність AI-рекомендацій: 66,88% прийнятих рекомендацій.
-- Інтегровано дані GA4 через Google BigQuery для аналізу подій, способів пошуку та шляху користувача до бронювання.
-- Створено DAX-метрики та візуалізації для моніторингу ключових бізнес-показників.
+**Key Results:**
 
-🔗 **Посилання:** [Power BI Dashboard](https://github.com/prutkih86-oss/Beauty-AI-PowerBI)
+- Developed three interactive Power BI dashboards: Revenue Overview, User Behavior, and Google Analytics.
+- Analyzed total booking value (UAH 4.07M), platform revenue (UAH 499.2K), and booking performance.
+- Conducted cohort analysis of customer retention, repeat bookings, and acquisition channels.
+- Evaluated AI recommendation performance, with a 66.88% acceptance rate.
+- Integrated GA4 data through Google BigQuery to analyze user events, search behavior, and booking journeys.
+- Developed DAX measures and visualizations to monitor key business metrics.
+
+**Project:** [Power BI Dashboard](https://github.com/prutkih86-oss/Beauty-AI-PowerBI)
 
 ---
 
 ### 🛒 E-commerce Sales Analytics
 
-**Опис:** Побудова наскрізного (end-to-end) аналітичного процесу — від обробки даних у BigQuery до створення інтерактивних дашбордів у Tableau.
+**Overview:** An end-to-end analytics workflow, from data preparation in BigQuery to interactive dashboards in Tableau.
 
-**Стек:** `SQL (BigQuery)`, `Python`, `Tableau`
+**Tech Stack:** `SQL (BigQuery)`, `Python`, `Tableau`, `Google Colab`
 
-**Ключові результати:**
-- Оптимізовано SQL-запити для підготовки аналітичних вибірок та проведено EDA за допомогою Python.
-- Створено два інтерактивні Tableau дашборди для відстеження ефективності бізнесу та метрик залученості.
-- Сформульовано інсайти щодо трендів продажів, поведінки користувачів та динаміки доходів.
+**Key Results:**
 
-🔗 **Посилання:** [Tableau](https://public.tableau.com/views/E-commerceSalesAnalytics_17850731402860/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Optimized SQL queries for analytical datasets and performed exploratory data analysis (EDA) using Python.
+- Developed two interactive Tableau dashboards to monitor business performance and user engagement metrics.
+- Identified insights into sales trends, customer behavior, and revenue dynamics.
+
+**Project Links:**
+
+- [Python Analysis — Google Colab](https://colab.research.google.com/drive/1eFkfPcgO2uLSQW4Abcbjp8ty9att6olt?usp=sharing)
+- [Interactive Tableau Dashboard](https://public.tableau.com/views/E-commerceSalesAnalytics_17850731402860/Dashboard1)
 
 ---
 
 ### 🧪 A/B Testing Statistical Analysis
 
-**Опис:** Статистичний аналіз результатів A/B тестування на масиві з понад 800 тисяч подій користувачів.
+**Overview:** Statistical analysis of four A/B experiments using a dataset containing 800,996 records of user activity.
 
-**Стек:** `Python (Pandas, SciPy)`, `SQL`, `Tableau`, `A/B Testing`
+**Tech Stack:** `Python (Pandas, NumPy, Statsmodels)`, `Tableau`, `Google Colab`, `Statistical Hypothesis Testing`
 
-**Ключові результати:**
-- Застосовано Two-Proportion Z-test для перевірки статистичних гіпотез та оцінки конверсій.
-- Розраховано lift %, p-value та довірчі інтервали.
-- Проведено сегментний аналіз за країнами, пристроями та каналами.
-- Підготовлено бізнес-рекомендації на основі статистичних результатів.
+**Key Results:**
 
-🔗 **Посилання:** [Tableau](https://public.tableau.com/views/ABTestingAnalysis_17850804481790/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+- Automated statistical significance testing using the Two-Proportion Z-test with a significance level of 0.05.
+- Calculated conversion rates, relative lift, p-values, and 95% confidence intervals.
+- Analyzed four conversion metrics: `add_payment_info`, `add_shipping_info`, `begin_checkout`, and `new account`.
+- Compared results across countries, devices, marketing channels, and continents.
+- Generated 1,811 rows of statistical results across experiments, metrics, and segments.
+- Developed an interactive Tableau dashboard to compare control and test groups, conversion lift, and statistical significance.
+
+**Example — Experiment 1:**
+
+The test variant increased the `add_payment_info` conversion rate from 4.38% to 4.93%, representing a **12.54% relative lift** (p < 0.001).
+
+This result was statistically significant at the 0.05 level.
+
+**Project Links:**
+
+- [Python Statistical Analysis — Google Colab](https://colab.research.google.com/drive/1WAMq8exuOHQtcFJdfP37v7G9Dj23IsGx?usp=sharing)
+- [Interactive Tableau Dashboard](https://public.tableau.com/views/ABTestingAnalysis_17850804481790/Dashboard1)
 
 ---
 
 ### 🦋 Beauty AI Platform — Team Project / Team Lead
 
-**Опис:** Крос-функціональний командний проєкт — платформа для пошуку та бронювання beauty-послуг із персоналізованими AI-рекомендаціями.
+**Overview:** A cross-functional team project focused on developing a platform for discovering and booking beauty services, featuring personalized AI recommendations.
 
-**Моя роль:** Team Lead, Frontend Development, Admin Panel Development, Data Integration та Analytics.
+**My Role:** Team Lead, Frontend Development, Admin Panel Development, Data Integration, and Analytics.
 
-**Стек:** `React`, `TypeScript`, `Vite`, `Python`, `NiceGUI`, `REST API`, `SQLite`, `React Leaflet`, `OpenStreetMap/CARTO`, `Git/GitHub`
+**Tech Stack:** `React`, `TypeScript`, `Vite`, `Python`, `NiceGUI`, `REST API`, `SQLite`, `React Leaflet`, `OpenStreetMap/CARTO`, `Git/GitHub`
 
-**Ключові результати:**
-- Розроблено responsive frontend для desktop та mobile із пошуком, категоріями, рекомендаціями та інтерактивною картою.
-- Реалізовано Admin Panel із Dashboard, Analytics та інтерфейсами керування bookings, clients, masters, services і payments.
-- Розроблено модульну структуру frontend та admin-застосунків для інтеграції з backend/API.
-- Створено аналітичні компоненти для моніторингу ключових бізнес-метрик.
-- Координовано командні завдання та взаємодію між напрямами розробки.
+**Key Results:**
 
-🔗 **Посилання:** [Frontend](https://github.com/prutkih86-oss/beauty-ai-frontend) | [Admin Panel](https://github.com/prutkih86-oss/beauty-ai-admin) | [Power BI Dashboard](https://github.com/prutkih86-oss/Beauty-AI-PowerBI)
+- Developed a responsive frontend for desktop and mobile, including search, categories, recommendations, and an interactive map.
+- Built an Admin Panel with Dashboard, Analytics, and management interfaces for bookings, clients, professionals, services, and payments.
+- Designed modular frontend and admin application structures for backend/API integration.
+- Developed analytical components for monitoring business performance metrics.
+- Coordinated team tasks and collaboration across development areas.
+
+**Project Links:**
+
+- [Frontend](https://github.com/prutkih86-oss/beauty-ai-frontend)
+- [Admin Panel](https://github.com/prutkih86-oss/beauty-ai-admin)
+- [Power BI Analytics](https://github.com/prutkih86-oss/Beauty-AI-PowerBI)
 
 ---
 
-## 📬 Контакти
+## 📬 Contact
 
 - **LinkedIn:** [Ihor Prudkyi](https://www.linkedin.com/in/ihor-prudkyi/)
-- **Email:** [Prutkih86@gmail.com](mailto:Prutkih86@gmail.com)
+- **Email:** [ihor.prudkyi.da@gmail.com](mailto:ihor.prudkyi.da@gmail.com)
 - **GitHub:** [prutkih86-oss](https://github.com/prutkih86-oss)
