@@ -117,6 +117,25 @@ The result was statistically significant at the 0.05 level.
 
 ---
 
+### 📈 Sales Performance Analysis — Google Sheets
+
+**Overview:** Sales performance analysis of 1,328 orders across 45 countries (2010–2017), using Google Sheets for business reporting, profitability analysis, and interactive visualization.
+
+**Tech Stack:** `Google Sheets`, `Pivot Tables`, `ABC Analysis`, `KPI Dashboard`, `Data Visualization`
+
+**Key Results:**
+
+- Developed a 13-sheet analytical workbook covering sales, revenue, profitability, and business performance.
+- Built a KPI dashboard with revenue, profit, average order value, and profit margin metrics.
+- Analyzed product categories, geographic markets, sales channels, delivery times, and sales trends.
+- Conducted ABC analysis to classify product categories by revenue contribution.
+- Identified four Category A product groups accounting for approximately 74.73% of revenue in the ABC analysis table.
+
+**Project:** [View Sales Performance Report — Google Sheets](https://docs.google.com/spreadsheets/d/1-mEMTOA3SfxDvOKRGze0eVKO1u8RQ3qK3RAtcjMS41Y/edit)
+
+---
+
+
 ### 🦋 Beauty AI Platform — Team Lead / Development
 
 **Overview:** A cross-functional team project developing a digital platform for discovering and booking beauty services, featuring personalized AI recommendations.
