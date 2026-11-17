@@ -130,6 +130,8 @@ The result was statistically significant at the 0.05 level.
 - Analyzed product categories, geographic markets, sales channels, delivery times, and sales trends.
 - Conducted ABC analysis to classify product categories by revenue contribution.
 - Identified four Category A product groups accounting for approximately 74.73% of revenue in the ABC analysis table.
+- Designed a sales performance dashboard with four KPI cards and visualizations of category profitability, regional performance, annual revenue trends, and sales channel distribution.
+
 
 **Project:** [View Sales Performance Report — Google Sheets](https://docs.google.com/spreadsheets/d/1-mEMTOA3SfxDvOKRGze0eVKO1u8RQ3qK3RAtcjMS41Y/edit)
 
